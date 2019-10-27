@@ -16,9 +16,9 @@ class ReadColors {
         blue = new int[image.h * image.w];
 
         takeColor();
-        cRed = compresTab(red);
-        cGreen = compresTab(green);
-        cBlue = compresTab(blue);
+        cRed = compressTab(red);
+        cGreen = compressTab(green);
+        cBlue = compressTab(blue);
 
         ArrayList<Byte> allArray = new ArrayList<>(cRed);
         allArray.addAll(cGreen);
@@ -45,7 +45,7 @@ class ReadColors {
             }
     }
 
-    private ArrayList<Byte> compresTab(int[] tab){
+    private ArrayList<Byte> compressTab(int[] tab){
 
         int prev = tab[0];
         int count = 0;

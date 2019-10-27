@@ -2,26 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d8a2947-7653-4eef-b0f9-095ba7e89bee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RleCompressionImage.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RleCompressionImage/FileChooser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RleCompressionImage/ImageToCompression.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RleCompressionImage/META-INF/RleCompressionImage.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RleCompressionImage/Main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RleCompressionImage/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RleCompressionImage/ReadColors.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/RleCompressionImage/WriteColors.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FileChooser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ImageToCompression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReadColors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WriteColors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RleCompressionImage/FileChooser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RleCompressionImage/FileChooser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RleCompressionImage/META-INF/RleCompressionImage.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RleCompressionImage/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RleCompressionImage/Main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RleCompressionImage/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RleCompressionImage/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RleCompressionImage/ReadColors.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RleCompressionImage/ReadColors.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RleCompressionImage/WriteColors.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RleCompressionImage/WriteColors.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FileChooser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FileChooser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReadColors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReadColors.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,23 +33,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FileChooser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1500">
-              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            <state relative-caret-position="550">
+              <caret line="139" column="15" selection-start-line="139" selection-start-column="15" selection-end-line="139" selection-end-column="15" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="method#FileChooser#0;class#FileChooser#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/WriteColors.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="-479">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -71,8 +61,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ReadColors.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-600">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="1421">
+              <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -110,13 +100,13 @@
         <option value="$PROJECT_DIR$/src/FileCompression.java" />
         <option value="$PROJECT_DIR$/src/ImageToCompression.java" />
         <option value="$PROJECT_DIR$/src/WriteColors.java" />
-        <option value="$PROJECT_DIR$/src/ReadColors.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/ReadColors.java" />
         <option value="$PROJECT_DIR$/src/FileChooser.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="125" />
     <option name="y" value="74" />
     <option name="width" value="1612" />
@@ -199,12 +189,12 @@
       <workItem from="1572165686182" duration="4872000" />
       <workItem from="1572172151925" duration="411000" />
       <workItem from="1572187840833" duration="9281000" />
-      <workItem from="1572198457227" duration="529000" />
+      <workItem from="1572198457227" duration="6304000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36386000" />
+    <option name="totallyTimeSpent" value="42161000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -216,7 +206,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13059701" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -227,7 +218,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29577464" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29469123" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -235,7 +226,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.23076923" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -273,32 +264,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/WriteColors.java">
+    <entry file="file://$PROJECT_DIR$/src/ReadColors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="1421">
+          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ReadColors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-600">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/rgb.rle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FromRle_rgb.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FromRle_Hello world.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FileChooser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1500">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        <state relative-caret-position="550">
+          <caret line="139" column="15" selection-start-line="139" selection-start-column="15" selection-end-line="139" selection-end-column="15" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="method#FileChooser#0;class#FileChooser#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WriteColors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-479">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -134,7 +134,7 @@ public class FileChooser extends JPanel
 
                 WriteColors writecolors = new WriteColors(width, height, redArr, greenArr, blueArr);
 
-                fileOut = new File("FromRle_"+fileRle.getName().substring(0,fileRle.getName().length()-4));
+                fileOut = new File("FromRle_"+fileRle.getName().substring(0,fileRle.getName().length()-4)+".jpg");
                 ImageIO.write(writecolors.bimg, "jpg", fileOut);
 
                 d.open(fileOut);
@@ -143,7 +143,6 @@ public class FileChooser extends JPanel
                 ex.printStackTrace();
             }
             log.append("Saving: " + fileOut.getName() + "." + newline);
-
 
             log.setCaretPosition(log.getDocument().getLength());
         }
